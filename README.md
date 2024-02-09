@@ -1,4 +1,4 @@
-OpenCV _ 12 effects 
+OpenCV_12_effects 
 
 Video Processing with OpenCV
 This repository contains a Python script for processing videos using OpenCV. The script reads a video file, applies various effects to the frames, and saves the result to a new video file.此存儲庫包含一個用於使用 OpenCV 處理視頻的 Python 腳本。該腳本讀取視頻檔，將各種效果應用於幀，並將結果保存到新的視頻檔中。
@@ -6,13 +6,31 @@ This repository contains a Python script for processing videos using OpenCV. The
 Prerequisites
 Make sure you have the following installed:請確保已安裝以下軟體：
 
+-----------------------------
+
 version :  (pip install list)
+
 Python 3.8.10
 OpenCV: 4.9.0.80
 NumPy: 1.20.3
 
+or
+pip install -r requirements.txt
+
+-----------------------------
+
 Usage
 Clone the repository:
+
+使用方式如下 : 
+
+#請將影片檔案放在與程式碼同一層 ('xxx.mp4')可自行修改名稱 
+cap = cv2.VideoCapture('xxx.mp4')
+
+#請更改你要修改的影片路徑 (xxxxx.avi) 可自行修改名稱 
+fourcc = cv2.VideoWriter_fourcc(*'XVID')
+output_video = cv2.VideoWriter('xxxxx.avi', fourcc, 20.0, (new_width, new_height))
+
 
 bash
 Copy code
