@@ -77,3 +77,7 @@ Resize: 調整圖像大小。
 
 作者 : tn00627974
 謝謝您使用影片特效應用程式！
+
+
+![image](https://github.com/tn00627974/OpenCV/assets/139155210/aaa93c63-4aab-41f8-8a7a-e10c0e39fbc1)
+
