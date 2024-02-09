@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/tn00627974/OpenCV.git
 cd your-repository
 Run the script:
 
