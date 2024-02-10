@@ -81,3 +81,5 @@ Resize: 調整圖像大小。
 
 ![image](https://github.com/tn00627974/OpenCV/assets/139155210/aaa93c63-4aab-41f8-8a7a-e10c0e39fbc1)
 
+展示影片 :
+https://www.youtube.com/watch?v=QS6JC6bzwAY
