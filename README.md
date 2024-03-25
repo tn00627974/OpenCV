@@ -76,10 +76,6 @@ Resize: 調整圖像大小。
 如果您有任何建議或改進意見，請隨時提交 [issue](<存儲庫的 URL>/issues) 或發起合併請求。
 
 作者 : tn00627974
-謝謝您使用影片特效應用程式！
-
-
+[點擊觀看我的YouTube視頻](https://www.youtube.com/watch?v=QS6JC6bzwAY)
 ![image](https://github.com/tn00627974/OpenCV/assets/139155210/aaa93c63-4aab-41f8-8a7a-e10c0e39fbc1)
 
-展示影片 :
-https://www.youtube.com/watch?v=QS6JC6bzwAY
